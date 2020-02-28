@@ -1,3 +1,4 @@
 puts "hi"
 puts "changed"
-puts "Avnish"git commit -m 'inital commit'
+puts "Avnish"
+git commit -m 'inital commit'
