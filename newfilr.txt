@@ -2,8 +2,7 @@ hello everyone..
 This is Avnish Dubey.
  pizza 
  pasta
- 
  New Branch created.
  See for your self.
- 
 this sentenceis is from branch.
+This sentence is from master.
